@@ -7,8 +7,3 @@ Here are some screenshots of the web page:<img width="718" alt="Screen Shot 2022
 <img width="699" alt="Screen Shot 2022-07-28 at 3 43 49 PM" src="https://user-images.githubusercontent.com/69735000/181624221-5c489f56-b631-48ea-a89d-c8050805cae0.png">
 <img width="743" alt="Screen Shot 2022-07-28 at 3 43 01 PM" src="https://user-images.githubusercontent.com/69735000/181624223-63e01edb-ecb0-436b-b4ec-df89808cfd9b.png">
 
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
