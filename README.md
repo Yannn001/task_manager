@@ -1,4 +1,4 @@
-# task_manager
+**task_manager** 
 A web app that allows users to create, update, delete, and look for tasks.\
 I followed john-smilga's tutorial video for building this app.
 
